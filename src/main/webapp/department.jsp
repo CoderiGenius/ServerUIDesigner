@@ -44,27 +44,30 @@
                                 <table class="table table-striped table-bordered table-hover" id="dataTables-example">
                                     <thead>
                                     <tr>
-                                        <th>Rendering engine</th>
-                                        <th>Browser</th>
-                                        <th>Platform(s)</th>
-                                        <th>Engine version</th>
-                                        <th>CSS grade</th>
+                                        <th>学号</th>
+                                        <th>宿舍号</th>
+                                        <th>床位号</th>
+                                        <th>宿舍楼号</th>
+                                        <th>宿舍楼位置</th>
+                                        <th></th>
                                     </tr>
                                     </thead>
                                     <tbody>
                                     <tr class="odd gradeX">
-                                        <td>Trident</td>
-                                        <td>Internet Explorer 4.0</td>
-                                        <td>Win 95+</td>
-                                        <td class="center">4</td>
-                                        <td class="center">X</td>
+                                        <td>1408070206</td>
+                                        <td>A325</td>
+                                        <td>6</td>
+                                        <td class="center">7</td>
+                                        <td class="center">北苑</td>
+                                        <td class="center"><a class="btn btn-primary btn-sm pull-right" role="button">编辑</a></td>
                                     </tr>
                                     <tr class="even gradeC">
-                                        <td>Trident</td>
-                                        <td>Internet Explorer 5.0</td>
-                                        <td>Win 95+</td>
-                                        <td class="center">5</td>
-                                        <td class="center">C</td>
+                                        <td>1408070202</td>
+                                        <td>A525</td>
+                                        <td>6</td>
+                                        <td class="center">10</td>
+                                        <td class="center">南苑</td>
+                                        <td class="center"><a class="btn btn-primary btn-sm pull-right" role="button">编辑</a></td>
                                     </tr>
 
                                     </tbody>

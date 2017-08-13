@@ -44,27 +44,36 @@
                                   <table class="table table-striped table-bordered table-hover" id="dataTables-example">
                                       <thead>
                                       <tr>
-                                          <th>Rendering engine</th>
-                                          <th>Browser</th>
-                                          <th>Platform(s)</th>
-                                          <th>Engine version</th>
-                                          <th>CSS grade</th>
+                                          <th>学号</th>
+                                          <th>考生号</th>
+                                          <th>身份证号码</th>
+                                          <th>姓名</th>
+                                          <th>性别</th>
+                                          <th>所在省份</th>
+                                          <th>所在城市</th>
+                                          <th>所属专业</th>
                                       </tr>
                                       </thead>
                                       <tbody>
                                       <tr class="odd gradeX">
-                                          <td>Trident</td>
-                                          <td>Internet Explorer 4.0</td>
-                                          <td>Win 95+</td>
-                                          <td class="center">4</td>
-                                          <td class="center">X</td>
+                                          <td>1408070206</td>
+                                          <td>1408070206</td>
+                                          <td>37142199611022715</td>
+                                          <td class="center">刘成成</td>
+                                          <td class="center">男</td>
+                                          <td>山东省</td>
+                                          <td class="center">德州市</td>
+                                          <td class="center">物联网工程</td>
                                       </tr>
-                                      <tr class="even gradeC">
-                                          <td>Trident</td>
-                                          <td>Internet Explorer 5.0</td>
-                                          <td>Win 95+</td>
-                                          <td class="center">5</td>
-                                          <td class="center">C</td>
+                                      <tr class="odd gradeX">
+                                          <td>1408070202</td>
+                                          <td>1408070202</td>
+                                          <td>37142199611022715</td>
+                                          <td class="center">于鹏</td>
+                                          <td class="center">男</td>
+                                          <td>山东省</td>
+                                          <td class="center">威海市</td>
+                                          <td class="center">物联网工程</td>
                                       </tr>
 
                                       </tbody>

@@ -44,27 +44,22 @@
                                 <table class="table table-striped table-bordered table-hover" id="dataTables-example">
                                     <thead>
                                     <tr>
-                                        <th>Rendering engine</th>
-                                        <th>Browser</th>
-                                        <th>Platform(s)</th>
-                                        <th>Engine version</th>
-                                        <th>CSS grade</th>
+                                        <th>学号</th>
+                                        <th>学费（单位：元）</th>
+                                        <th>住宿费（单位：元）</th>
+                                        <th>代收费（单位：元）</th>
+                                        <th>总费用（单位：元）</th>
+                                        <th>欠缴费（单位：元）</th>
                                     </tr>
                                     </thead>
                                     <tbody>
                                     <tr class="odd gradeX">
-                                        <td>Trident</td>
-                                        <td>Internet Explorer 4.0</td>
-                                        <td>Win 95+</td>
-                                        <td class="center">4</td>
-                                        <td class="center">X</td>
-                                    </tr>
-                                    <tr class="even gradeC">
-                                        <td>Trident</td>
-                                        <td>Internet Explorer 5.0</td>
-                                        <td>Win 95+</td>
-                                        <td class="center">5</td>
-                                        <td class="center">C</td>
+                                        <td>1408070206</td>
+                                        <td>9600</td>
+                                        <td>800</td>
+                                        <td class="center">800</td>
+                                        <td class="center">11200</td>
+                                        <td class="center">0</td>
                                     </tr>
 
                                     </tbody>

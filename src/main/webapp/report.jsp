@@ -37,36 +37,34 @@
                     <!-- Advanced Tables -->
                     <div class="panel panel-default">
                         <div class="panel-heading">
-                            <%--<a class="btn btn-primary btn-md pull-right" role="button">导入数据</a>--%>
+                            <a class="btn btn-primary btn-md pull-right" role="button" href="report.jsp">实时刷新</a>
                         </div>
                         <div class="panel-body" style="margin-top: 20px">
                             <div class="table-responsive" style="overflow-x: hidden">
                                 <table class="table table-striped table-bordered table-hover" id="dataTables-example">
                                     <thead>
                                     <tr>
-                                        <th>Rendering engine</th>
-                                        <th>Browser</th>
-                                        <th>Platform(s)</th>
-                                        <th>Engine version</th>
-                                        <th>CSS grade</th>
+                                        <th>学号</th>
+                                        <th>是否领取一卡通</th>
+                                        <th>是否领取军训服</th>
+                                        <th>是否领取被褥</th>
+                                        <th>是否领取钥匙</th>
+                                        <th>欠缴费</th>
+                                        <th>是否绿色通道</th>
+                                        <th>报道时间</th>
                                     </tr>
                                     </thead>
                                     <tbody>
                                     <tr class="odd gradeX">
-                                        <td>Trident</td>
-                                        <td>Internet Explorer 4.0</td>
-                                        <td>Win 95+</td>
-                                        <td class="center">4</td>
-                                        <td class="center">X</td>
+                                        <td>1408070206</td>
+                                        <td>是</td>
+                                        <td>是</td>
+                                        <td class="center">是</td>
+                                        <td class="center">是</td>
+                                        <td>是</td>
+                                        <td class="center">是</td>
+                                        <td class="center">2017/08/13 15:46</td>
                                     </tr>
-                                    <tr class="even gradeC">
-                                        <td>Trident</td>
-                                        <td>Internet Explorer 5.0</td>
-                                        <td>Win 95+</td>
-                                        <td class="center">5</td>
-                                        <td class="center">C</td>
-                                    </tr>
-
                                     </tbody>
                                 </table>
                             </div>
